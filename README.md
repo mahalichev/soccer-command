@@ -31,6 +31,7 @@ Directory: `./temporal-automate`
 
 ## 🏁 Multi-level controllers (final version)
 The final version of the team used multi-level controllers, each of which was responsible for its own task (calculating coordinates, determining a goal, making decisions, moving, etc.).
+
 Directory: `./controllers`
 
 # 🎖️ Result
