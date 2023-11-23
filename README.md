@@ -35,4 +35,4 @@ The final version of the team used multi-level controllers, each of which was re
 Directory: `./controllers`
 
 # 🎖️ Result
-During the competition between students of the Department of MOEVM of St. Petersburg Electrotechnical University, this team took second place
+During the competition between students of the Department of MOEVM of St. Petersburg Electrotechnical University, this team took second place.
