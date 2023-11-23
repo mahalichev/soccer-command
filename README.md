@@ -1,4 +1,4 @@
-# soccer-command
+# soccer-team
 Step-by-step creation of a football team in the form of the implementation of various intelligent systems for participation in the tournament (https://rcsoccersim.github.io/).
 
 All scripts are run using the command: `node ./app.js`
